@@ -33,8 +33,7 @@ The objective of this project is to:
 The dataset is stored in a CSV file:
 <br>
 customstudentdataset.csv
-<br>
-<br>
+
 ### Features:
 
 | Column Name     | Description                          |
