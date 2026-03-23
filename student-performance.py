@@ -40,3 +40,10 @@ plt.xlabel("Study Hours")
 plt.ylabel("Final Score")
 plt.title("Study Hours vs Final Score")
 plt.show()
+
+
+# Step 8 : Accuracy check
+
+accuracy = r2_score(y_test, predictions)
+print("Model Accuracy (R2 Score):", accuracy)
+
