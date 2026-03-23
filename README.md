@@ -127,3 +127,22 @@ This represents: <br>
 * Add more features (sleep, assignments, etc.)
 * Build a GUI or web app
 * Deploy the project online
+
+<br>
+
+## 🧠 Learning Outcomes
+* Understanding Linear Regression
+* Working with real datasets (CSV)
+* Model training and evaluation
+* Data visualization using Matplotlib
+
+<br>
+
+## 📌 Conclusion
+This project demonstrates how Machine Learning can be used to predict student performance using simple but meaningful inputs. It is a practical example of applying AI concepts to solve real-world problems.
+
+<br>
+
+## 👨‍💻 Author
+
+Adarsh Tiwari
