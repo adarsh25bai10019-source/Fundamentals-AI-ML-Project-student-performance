@@ -1,5 +1,12 @@
 # Fundamentals-AI-ML-Project-student-performance
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/ML-Linear%20Regression-green)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
+![Dataset](https://img.shields.io/badge/Data-CSV-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Accuracy](https://img.shields.io/badge/Accuracy-High-success)
+
 ## 📌 Overview : 
 
 This project is a Machine Learning application that predicts a student's final score based on:
