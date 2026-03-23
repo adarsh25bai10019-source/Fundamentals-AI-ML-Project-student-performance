@@ -47,3 +47,12 @@ To view the CSV file click on the link 👉 [Click here](https://github.com/adar
 | Final_Score     | Target variable (predicted output)   |
 
 __Note__ : This CSV file has been manually made by me for practical purposes and have simple values.  
+
+
+<br>
+
+## 🛠️ Technologies Used :
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
