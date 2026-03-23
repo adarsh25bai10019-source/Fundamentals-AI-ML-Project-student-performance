@@ -34,7 +34,8 @@ The dataset is stored in a CSV file:
 <br>
 customstudentdataset.csv
 <br>
-Features:
+<br>
+### Features:
 
 | Column Name     | Description                          |
 |-----------------|--------------------------------------|
