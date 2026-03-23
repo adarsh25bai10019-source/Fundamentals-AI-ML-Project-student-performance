@@ -45,3 +45,5 @@ To view the CSV file click on the link 👉 [Click here](https://github.com/adar
 | Attendance      | Attendance percentage (%)            |
 | Previous_Marks  | Previous exam marks                  |
 | Final_Score     | Target variable (predicted output)   |
+<br>
+**Note :** This CSV file has been manually made by me for practical purposes and have simple values.  
