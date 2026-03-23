@@ -86,9 +86,11 @@ student-performance.py
 6. Model accuracy is calculated using R² score
 7. A graph is plotted to visualize the relationship
 
+<br>
+
 ## 🧪 Example Output
-Predictions: [57.91, 79.25]
+Predictions: [57.91, 79.25] <br>
 Actual: [58, 78]
 
-Predicted Final Score: 73.81
+Predicted Final Score: 73.81 <br>
 Model Accuracy (R2 Score): 0.97
