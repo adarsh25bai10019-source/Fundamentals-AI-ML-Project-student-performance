@@ -62,7 +62,7 @@ __Note__ : This CSV file has been manually made by me for practical purposes and
 ## ⚙️ Installation & Setup
 
 1. Install the student-performance python file : 
-[Download](https://github.com/adarsh25bai10019-source/Fundamentals-AI-ML-Project-student-performance/blob/main/student-performance.py)_
+[Download](https://github.com/adarsh25bai10019-source/Fundamentals-AI-ML-Project-student-performance/blob/main/student-performance.py)
 2. Install Required Libraries
 * `pip install pandas`
 * `pip install scikit-learn`
