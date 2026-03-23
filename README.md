@@ -12,7 +12,7 @@ It uses Linear Regression to model the relationship between these factors and ac
 
 <br>
 
-## 🎯 Objective
+## 🎯 Objective :
 
 The objective of this project is to:
 
