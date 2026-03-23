@@ -1,2 +1,12 @@
 # Fundamentals-AI-ML-Project-student-performance
-A machine learning project that predicts student performance based on study habits, attendance, and other factors using a custom dataset.
+
+📌 Overview : 
+This project is a Machine Learning application that predicts a student's final score based on:
+
+Study Hours
+Attendance (%)
+Previous Marks
+
+It uses Linear Regression to model the relationship between these factors and academic performance.
+
+
