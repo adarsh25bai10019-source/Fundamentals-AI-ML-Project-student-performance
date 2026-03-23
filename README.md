@@ -1,6 +1,6 @@
 # Fundamentals-AI-ML-Project-student-performance
 
-📌 Overview : 
+## 📌 Overview : 
 
 This project is a Machine Learning application that predicts a student's final score based on:
 
@@ -12,7 +12,7 @@ It uses Linear Regression to model the relationship between these factors and ac
 
 <br>
 
-🎯 Objective
+## 🎯 Objective
 
 The objective of this project is to:
 
