@@ -6,3 +6,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 df = pd.read_csv("customstudentdataset.csv")
+
+# Step 2 : 
+
+X = df[['Study_Hours', 'Attendance', 'Previous_Marks']]
+y = df['Final_Score']
