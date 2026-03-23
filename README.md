@@ -75,6 +75,7 @@ Run the Python script:
 
 student-performance.py
 <br>
+<br>
 
 ## 📈 How It Works
 1. The dataset is loaded using Pandas
