@@ -105,3 +105,17 @@ X-axis → Study Hours <br>
 Y-axis → Final Score <br>
 
 This helps in understanding how study time affects performance.
+
+<br>
+
+## 🧑‍💻 Custom Prediction
+
+The model can predict scores for new inputs:
+
+custom_input = [[6, 80, 70]] <br>
+
+This represents: <br>
+
+* 6 study hours
+* 80% attendance
+* 70 previous marks
