@@ -23,6 +23,6 @@ The objective of this project is to:
 <br>
 
 ## 🧠 Machine Learning Model : 
-Algorithm Used: Linear Regression
-Type: Supervised Learning
-Evaluation Metric: R² Score (Accuracy)
+* Algorithm Used: Linear Regression
+* Type: Supervised Learning
+* Evaluation Metric: R² Score (Accuracy)
