@@ -33,6 +33,9 @@ The objective of this project is to:
 The dataset is stored in a CSV file:
 <br>
 customstudentdataset.csv
+<br>
+
+To view the CSV file click on the link 👉 [Click here] (https://github.com/adarsh25bai10019-source/Fundamentals-AI-ML-Project-student-performance/blob/main/customstudentdataset.csv)
 
 ### Features:
 
