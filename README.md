@@ -4,11 +4,11 @@
 
 This project is a Machine Learning application that predicts a student's final score based on:
 
-Study Hours
+* Study Hours
 <br>
-Attendance (%)
+* Attendance (%)
 <br>
-Previous Marks
+* Previous Marks
 <br>
 It uses Linear Regression to model the relationship between these factors and academic performance.
 
