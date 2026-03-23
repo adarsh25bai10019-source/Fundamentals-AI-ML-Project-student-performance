@@ -31,9 +31,10 @@ The objective of this project is to:
 ## 📊 Dataset
 
 The dataset is stored in a CSV file:
+<br>
 customstudentdataset.csv
-
-# Features:
+<br>
+Features:
 
 | Column Name     | Description                          |
 |-----------------|--------------------------------------|
