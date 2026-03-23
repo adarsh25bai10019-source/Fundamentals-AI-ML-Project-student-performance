@@ -1,6 +1,7 @@
 # Fundamentals-AI-ML-Project-student-performance
 
 📌 Overview : 
+
 This project is a Machine Learning application that predicts a student's final score based on:
 
 Study Hours
