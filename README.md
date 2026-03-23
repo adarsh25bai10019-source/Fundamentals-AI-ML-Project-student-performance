@@ -26,3 +26,18 @@ The objective of this project is to:
 * Algorithm Used: Linear Regression
 * Type: Supervised Learning
 * Evaluation Metric: R² Score (Accuracy)
+<br>
+
+## 📊 Dataset
+
+The dataset is stored in a CSV file:
+customstudentdataset.csv
+
+# Features:
+
+| Column Name     | Description                          |
+|-----------------|--------------------------------------|
+| Study_Hours     | Hours studied per day                |
+| Attendance      | Attendance percentage (%)            |
+| Previous_Marks  | Previous exam marks                  |
+| Final_Score     | Target variable (predicted output)   |
