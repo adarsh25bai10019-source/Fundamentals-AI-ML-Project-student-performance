@@ -12,4 +12,12 @@ Previous Marks
 <br>
 It uses Linear Regression to model the relationship between these factors and academic performance.
 
+<br>
 
+🎯 Objective
+
+The objective of this project is to:
+
+Predict student performance in advance
+Help students identify areas of improvement
+Demonstrate the practical use of AI/ML in education
