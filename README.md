@@ -119,3 +119,11 @@ This represents: <br>
 * 6 study hours
 * 80% attendance
 * 70 previous marks
+
+<br>
+
+## 🚀 Future Improvements
+* Instead of adding custom input manually take user input.
+* Add more features (sleep, assignments, etc.)
+* Build a GUI or web app
+* Deploy the project online
