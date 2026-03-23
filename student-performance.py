@@ -14,3 +14,8 @@ y = df['Final_Score']
 
 # Step 3: Train-Test Split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
+
+# Step 4: Train Model
+
+model = LinearRegression()
+model.fit(X_train, y_train)
