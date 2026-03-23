@@ -33,7 +33,14 @@ custom_input = pd.DataFrame([[6, 80, 70]], columns=['Study_Hours', 'Attendance',
 predicted_score = model.predict(custom_input)
 print("\nPredicted Final Score:", predicted_score[0])
 
-# Step 7: Visualization
+
+# Step 7 : Accuracy check
+
+accuracy = r2_score(y_test, predictions)
+print("Model Accuracy (R2 Score):", accuracy)
+
+
+# Step 8: Visualization
 
 plt.scatter(df['Study_Hours'], df['Final_Score'])
 plt.xlabel("Study Hours")
@@ -41,9 +48,4 @@ plt.ylabel("Final Score")
 plt.title("Study Hours vs Final Score")
 plt.show()
 
-
-# Step 8 : Accuracy check
-
-accuracy = r2_score(y_test, predictions)
-print("Model Accuracy (R2 Score):", accuracy)
 
