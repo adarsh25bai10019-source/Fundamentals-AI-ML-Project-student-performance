@@ -67,13 +67,14 @@ __Note__ : This CSV file has been manually made by me for practical purposes and
 * `pip install pandas`
 * `pip install scikit-learn`
 * `pip install matplotlib`
-
+<br>
 
 ## ▶️ How to Run the Project
 
 Run the Python script:
 
 student-performance.py
+<br>
 
 ## 📈 How It Works
 1. The dataset is loaded using Pandas
@@ -83,3 +84,10 @@ student-performance.py
 5. Predictions are made on test data
 6. Model accuracy is calculated using R² score
 7. A graph is plotted to visualize the relationship
+
+## 🧪 Example Output
+Predictions: [57.91, 79.25]
+Actual: [58, 78]
+
+Predicted Final Score: 73.81
+Model Accuracy (R2 Score): 0.97
