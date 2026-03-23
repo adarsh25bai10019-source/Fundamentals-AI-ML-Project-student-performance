@@ -67,3 +67,12 @@ __Note__ : This CSV file has been manually made by me for practical purposes and
 * `pip install pandas`
 * `pip install scikit-learn`
 * `pip install matplotlib`
+
+
+<br>
+
+## ▶️ How to Run the Project
+
+Run the Python script:
+
+student-performance.py
