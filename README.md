@@ -19,3 +19,10 @@ The objective of this project is to:
 * Predict student performance in advance
 * Help students identify areas of improvement
 * Demonstrate the practical use of AI/ML in education
+
+<br>
+
+## 🧠 Machine Learning Model : 
+Algorithm Used: Linear Regression
+Type: Supervised Learning
+Evaluation Metric: R² Score (Accuracy)
