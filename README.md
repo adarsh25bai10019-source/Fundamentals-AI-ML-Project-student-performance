@@ -69,15 +69,11 @@ __Note__ : This CSV file has been manually made by me for practical purposes and
 * `pip install matplotlib`
 
 
-<br>
-
 ## ▶️ How to Run the Project
 
 Run the Python script:
 
 student-performance.py
-
-<br>
 
 ## 📈 How It Works
 1. The dataset is loaded using Pandas
