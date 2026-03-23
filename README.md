@@ -94,3 +94,14 @@ Actual: [58, 78]
 
 Predicted Final Score: 73.81 <br>
 Model Accuracy (R2 Score): 0.97
+
+<br>
+
+## 📈 Visualization
+
+The project generates a scatter plot showing:
+
+X-axis → Study Hours <br>
+Y-axis → Final Score <br>
+
+This helps in understanding how study time affects performance.
