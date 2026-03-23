@@ -46,4 +46,4 @@ To view the CSV file click on the link 👉 [Click here](https://github.com/adar
 | Previous_Marks  | Previous exam marks                  |
 | Final_Score     | Target variable (predicted output)   |
 <br>
-__Note__: This CSV file has been manually made by me for practical purposes and have simple values.  
+__Note__This CSV file has been manually made by me for practical purposes and have simple values.  
