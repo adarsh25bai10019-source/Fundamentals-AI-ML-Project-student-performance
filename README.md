@@ -1,6 +1,6 @@
 # Fundamentals-AI-ML-Project-student-performance
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Linear%20Regression-green)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 ![Dataset](https://img.shields.io/badge/Data-CSV-yellow)
