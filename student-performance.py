@@ -26,3 +26,10 @@ model.fit(X_train, y_train)
 predictions = model.predict(X_test)
 print("Predictions:", predictions)
 print("Actual:", list(y_test))
+
+# Step 6: Test with Custom Input
+
+custom_input = [[6, 80, 70]]
+predicted_score = model.predict(custom_input)
+print("\nPredicted Final Score:", predicted_score[0])
+
