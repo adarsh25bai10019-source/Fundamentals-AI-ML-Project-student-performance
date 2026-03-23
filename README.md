@@ -62,9 +62,8 @@ __Note__ : This CSV file has been manually made by me for practical purposes and
 ## ⚙️ Installation & Setup
 
 1. Clone the Repository
-git clone https://github.com/your-username/student-performance-predictor.git
-cd student-performance-predictor
+git clone https://github.com/your-username/student-performance-predictor.gitcd student-performance-predictor
 2. Install Required Libraries
-`pip install pandas`
-`pip install scikit-learn`
-`pip install matplotlib`
+* `pip install pandas`
+* `pip install scikit-learn`
+* `pip install matplotlib`
