@@ -19,3 +19,10 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
 
 model = LinearRegression()
 model.fit(X_train, y_train)
+
+
+# Step 5: Predictions
+
+predictions = model.predict(X_test)
+print("Predictions:", predictions)
+print("Actual:", list(y_test))
