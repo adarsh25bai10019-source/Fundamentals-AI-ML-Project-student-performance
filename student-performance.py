@@ -11,3 +11,6 @@ df = pd.read_csv("customstudentdataset.csv")
 
 X = df[['Study_Hours', 'Attendance', 'Previous_Marks']]
 y = df['Final_Score']
+
+# Step 3: Train-Test Split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
