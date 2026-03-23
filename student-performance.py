@@ -29,7 +29,7 @@ print("Actual:", list(y_test))
 
 # Step 6: Test with Custom Input
 
-custom_input = [[6, 80, 70]]
+custom_input = pd.DataFrame([[6, 80, 70]], columns=['Study_Hours', 'Attendance', 'Previous_Marks'])
 predicted_score = model.predict(custom_input)
 print("\nPredicted Final Score:", predicted_score[0])
 
