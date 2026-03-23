@@ -76,3 +76,14 @@ __Note__ : This CSV file has been manually made by me for practical purposes and
 Run the Python script:
 
 student-performance.py
+
+<br>
+
+## 📈 How It Works
+1. The dataset is loaded using Pandas
+2. Features (Study_Hours, Attendance, Previous_Marks) are selected
+3. Data is split into training and testing sets
+4. A Linear Regression model is trained
+5. Predictions are made on test data
+6. Model accuracy is calculated using R² score
+7. A graph is plotted to visualize the relationship
